@@ -42,7 +42,8 @@ class Lock
             }, $key);
 
         // for educational puposes
-        echo $key . PHP_EOL;
+        if ( defined('DEBUG') )
+            echo $key . PHP_EOL;
 
         // split and reverse the binary key
         $key = array_reverse(str_split($key));
@@ -65,8 +66,11 @@ class Lock
             {
                 // using the pin at this location
                 $pin = $this->pins[$notch % $pins];
+
                 // learning can be fun
-                echo $pin[1] . PHP_EOL;
+                if ( defined('DEBUG') )
+                    echo $pin[1] . PHP_EOL;
+
                 // update value
                 $data = call_user_func($pin, $data);
             }
@@ -80,9 +84,11 @@ class Lock
     }
 }
 
+// test code to run if called directly, requires at least one argument
 if ( __FILE__ === array_shift(get_included_files()) && $argc > 1 )
 {
+    define('DEBUG', 1);
     require 'demo_barrel.php';
     $lock = new Lock('Locksmith\DemoBarrel');
-    echo $lock->hash($argv[1], $argv[2]);
+    echo $lock->hash($argv[1], $argc > 2 ? $argv[2] : $argv[1]);
 }
