@@ -12,4 +12,18 @@ These things are important, it's true, but there's much more that can be done **
 
 -
 
-I may fill out this readme a bit more in future, but for now I think the best way to understand is to dive into the code. Shouldn't take you long!
+**WARNING**: This is a brain dump of an idea. It has not and should not be implented in a real world application without properly testing it.
+
+-
+
+_I may fill out this readme a bit more in future, but for now I think the best way to understand is to dive in! Shouldn't take you long!_
+
+---
+
+Copyright (C) 2012 Mal Graty <mal.graty@googlemail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
