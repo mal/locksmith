@@ -12,7 +12,7 @@ These things are important, it's true, but there's much more that can be done **
 
 -
 
-**WARNING**: This is a brain dump of an idea. It has not and should not be implented in a real world application without properly testing it.
+**WARNING**: This is a brain dump of an idea. It has not and should not be implented in a real world application without proper testing.
 
 -
 
