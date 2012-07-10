@@ -12,7 +12,7 @@ These things are important, it's true, but there's much more that can be done **
 
 ### Thoughts
 
-While initially discussing this idea, a phrase was uttered that people rallied around "security through obscurity". An all to common occurance. While no one can deny obscurity alone is a bad idea, incorporating it into your solution is and should continue to be common practice. Some millitary facilities, for example, despite not skimping on security devices and personel, closely guard information about their exact whereabouts. It's not relied upon, but that's not the same as being worthless.
+While initially discussing this idea, a phrase was uttered that often garners a fair amount of prejudice right from the outset: "security through obscurity". An all to common occurance. While no one can deny obscurity alone is a bad idea, incorporating it into your solution is and should continue to be common practice. Some millitary facilities, for example, despite not skimping on security devices and personel, closely guard information about their exact whereabouts. It's not relied upon, but that's not the same as being worthless.
 
 ### Future
 
