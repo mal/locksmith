@@ -25,7 +25,7 @@ Day 1:
     User 2 Key        0   1   1   1   1   1   0   1
 ```
 
-Then after a scrable:
+Then after a scramble:
 
 Day 2:
 ```
